@@ -1,9 +1,9 @@
-ind = 12
-som = 0
+idx = 12
+sum = 0
 k = 1
 
-while k<ind:
-    k=k+1
-    som = som + k
+while k<idx:
+    k= k + 1
+    sum = sum + k
 
-print(som)
+print(sum)
